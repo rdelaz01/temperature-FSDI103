@@ -1,0 +1,15 @@
+.result-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    background-color: skyblue;
+    padding: 10px;
+    height: 400px;
+}
+.cold{
+    color: blue;
+}
+.hot{
+    color: red;
+}

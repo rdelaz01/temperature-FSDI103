@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+    border-collapse: collapse; /* Merges borders into a single line */
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+body {    
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
